@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-<div ><p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=munjji&theme=graywhite&show_icons=true"/></a>
-</p></div>
+<h3 algin = "center">:fire: Git Status</h5>
+<div ><img src="https://github-readme-stats.vercel.app/api?username=munjji&theme=graywhite&show_icons=true"/></div>
 
