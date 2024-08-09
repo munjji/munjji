@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <h2 algin = "center">:computer: Stack</h2>
-<hr/>
 <div>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -23,9 +22,7 @@
 
 
 <h2 algin = "center">:fire: Git Status</h2>
-<hr/>
 <div ><img src="https://github-readme-stats.vercel.app/api?username=munjji&theme=graywhite&show_icons=true"/></div>
 
 <h2 algin = "center">:speech_balloon: Education</h2>
-<hr/>
-<p>동국대학교 컴퓨터공학전공 21학번</p>
+<p>동국대학교 컴퓨터공학전공 21학번 이지희</p>
