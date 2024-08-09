@@ -21,7 +21,7 @@
 </div>
 
 
-<h2 algin = "center">:fire: Git Status</h2>
+<h2 algin = "center">:fire: Git Stats</h2>
 <div ><img src="https://github-readme-stats.vercel.app/api?username=munjji&theme=graywhite&show_icons=true"/></div>
 
 <h2 algin = "center">:speech_balloon: Education</h2>
