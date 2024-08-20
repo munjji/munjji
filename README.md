@@ -25,4 +25,4 @@
 <div ><img src="https://github-readme-stats.vercel.app/api?username=munjji&theme=graywhite&show_icons=true"/></div>
 
 <h2 algin = "center">:speech_balloon: Education</h2>
-<p>동국대학교 컴퓨터공학전공</p>
+<p>Dongguk University, Department of Computer Science and Engineering</p>
