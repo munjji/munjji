@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. I'm Jihee 👋 
 
 <h2 algin = "center">:computer: Stack</h2>
 <div>
