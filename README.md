@@ -1,10 +1,13 @@
 ## Hi there. I'm Jihee 👋 
 
-<h2 algin = "center">:computer: Activities</h2>
-- 동국대학교 구름톤 유니브 3기 프론트엔드 파트
-- 동국대학교 UMC 7기 Web 파트장 & Spring Boot 챌린저
-- 동국대학교 UMC 6기 Spring Boot 챌린저
-- 동국대학교 UMC 5기 Web 챌린저
+<h2 algin = "center">🏃‍♀️: Activities</h2>
+<div>- 동국대학교 구름톤 유니브 3기 프론트엔드 파트</div>
+<div>- 동국대학교 UMC 7기 Web 파트장 & Spring Boot 챌린저
+</div>
+<div>- 동국대학교 UMC 6기 Spring Boot 챌린저
+</div>
+<div>- 동국대학교 UMC 5기 Web 챌린저
+</div>
 
 <h2 algin = "center">:computer: Stack</h2>
 <div>
