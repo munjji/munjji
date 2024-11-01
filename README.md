@@ -2,7 +2,7 @@
 
 <h2 algin = "center">🏃‍♀️ Activities</h2>
 <div>- 동국대학교 구름톤 유니브 3기 프론트엔드 파트</div>
-<div>- 동국대학교 UMC 7기 Web 파트장 & Spring Boot 챌린저
+<div>- 동국대학교 UMC 7기 Web 파트장 & UMC 7기 Sculptor Web 파트장 & Spring Boot 챌린저
 </div>
 <div>- 동국대학교 UMC 6기 Spring Boot 챌린저
 </div>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </div>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
