@@ -1,7 +1,4 @@
 ## Hi there. I'm Jihee 👋 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/munjji?pet-id=5" width="1000" height="120"/>
-</a>
 <h2 algin = "center">🏃‍♀️ Activities</h2>
 <li> 동국대학교 구름톤 유니브 3기 프론트엔드 파트</li>
 <li> 동국대학교 UMC 7기 Web 파트장 & UMC 7기 Sculptor Web 파트장 & Spring Boot 챌린저
