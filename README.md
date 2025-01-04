@@ -7,6 +7,8 @@
 </li>
 <li> 동국대학교 UMC 5기 Web 챌린저
 </li>
+<li> DGU GDG on Campus Web/App 2기
+</li>
 
 <h2 algin = "center">:computer: Stack</h2>
 <div>
