@@ -1,4 +1,7 @@
 ## Hi there. I'm Jihee 👋 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/munjji?pet-id=650943727206130460" width="1000" height="120"/>
+</a>
 <h2 algin = "center">🏃‍♀️ Activities</h2>
 <li> DGU GDG on Campus Web/App 2기</li>
 <li> 동국대학교 구름톤 유니브 3기 프론트엔드 파트</li>
