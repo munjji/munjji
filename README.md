@@ -6,9 +6,9 @@
 <h2 algin = "center">🏃‍♀️ Activities</h2>
 <li> DGU GDG on Campus Web/App 2기</li>
 <li> 동국대학교 구름톤 유니브 3기 프론트엔드 파트</li>
-<li> 동국대학교 UMC 7기 Web 파트장 & UMC 7기 Sculptor Web 파트장 & Spring Boot 챌린저</li>
-<li> 동국대학교 UMC 6기 Spring Boot 챌린저</li>
-<li> 동국대학교 UMC 5기 Web 챌린저</li>
+<li> DGU UMC 7기 Web 파트장 & UMC 7기 Sculptor Web 파트장 & Spring Boot 챌린저</li>
+<li> DGU UMC 6기 Spring Boot 챌린저</li>
+<li> DGU UMC 5기 Web 챌린저</li>
 
 <h2 algin = "center">:computer: Stack</h2>
 <div>
