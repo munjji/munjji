@@ -8,7 +8,7 @@
 <li> 동국대학교 구름톤 유니브 3기 | 프론트엔드 파트</li>
 <li> DGU UMC 7기 | Web 파트장 & UMC 7기 Sculptor Web 파트장 & Spring Boot 챌린저</li>
 <li> DGU UMC 6기 | Spring Boot 챌린저</li>
-<li> DGU UMC 5기 | Web 챌린저 `2023.09 ~ 2024.02`</li>
+<li> DGU UMC 5기 | Web 챌린저</li>
 
 <h2 algin = "center">:computer: Stack</h2>
 <div>
