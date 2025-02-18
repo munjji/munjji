@@ -1,16 +1,14 @@
-## Hi there. I'm Jihee 👋 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/munjji?pet-id=650943727206130459" width="1000" height="120"/>
-</a>
+## Hi there. I'm Ji hee 👋 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c6bcd0&height=250&section=header&text=Ji%20Hee's%20Github&fontSize=60&animation=fadeIn" />
 
-<h2 algin = "center">🏃‍♀️ Activities</h2>
-<li> DGU GDG on Campus Web/App 2기</li>
-<li> 동국대학교 구름톤 유니브 3기 | 프론트엔드 파트</li>
-<li> DGU UMC 7기 | Web 파트장 & UMC 7기 Sculptor Web 파트장 & Spring Boot 챌린저</li>
-<li> DGU UMC 6기 | Spring Boot 챌린저</li>
-<li> DGU UMC 5기 | Web 챌린저</li>
+### 🏃‍♀️ Activities
+- DGU GDG on Campus Web/App 2기 `2024.12 ~ now`
+- DGU UMC 7기 | Web 파트장 & UMC 7기 Sculptor Web 파트장 & Spring Boot 챌린저 `2024.09 ~ 2025.12`
+- 동국대학교 구름톤 유니브 3기 | 프론트엔드 파트 `2024.08 ~ 2024.12`
+- DGU UMC 6기 | Spring Boot 챌린저 `2024.03 ~ 2024.08`
+- DGU UMC 5기 | Web 챌린저 `2023.09 ~ 2024.02`
 
-<h2 algin = "center">:computer: Stack</h2>
+### :computer: Stack
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -31,7 +29,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
-
 
 <h2 algin = "center">:fire: Git Stats</h2>
 <div ><img src="https://github-readme-stats.vercel.app/api?username=munjji&theme=graywhite&show_icons=true"/></div>
