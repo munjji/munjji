@@ -3,7 +3,7 @@
 
 ### 🏃‍♀️ Activities
 - DGU GDG on Campus Web/App 2기 `2024.12 ~ now`
-- DGU UMC 7기 | Web 파트장 & UMC 7기 Sculptor Web 파트장 & Spring Boot 챌린저 `2024.09 ~ 2025.12`
+- DGU UMC 7기 | Web 파트장 & UMC 7기 Sculptor Web 파트장 & Spring Boot 챌린저 `2024.09 ~ 2025.02`
 - 동국대학교 구름톤 유니브 3기 | 프론트엔드 파트 `2024.08 ~ 2024.12`
 - DGU UMC 6기 | Spring Boot 챌린저 `2024.03 ~ 2024.08`
 - DGU UMC 5기 | Web 챌린저 `2023.09 ~ 2024.02`
