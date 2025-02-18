@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
-<h2 algin = "center">:fire: Git Stats</h2>
-<div ><img src="https://github-readme-stats.vercel.app/api?username=munjji&theme=graywhite&show_icons=true"/></div>
+### :fire: Git Stats
+<img src="https://github-readme-stats.vercel.app/api?username=munjji&theme=graywhite&show_icons=true"/>
 
-<h2 algin = "center">:speech_balloon: Education</h2>
+### :speech_balloon: Education
 <p>Dongguk University, Department of Computer Science and Engineering</p>
