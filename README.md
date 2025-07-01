@@ -1,7 +1,7 @@
 ## Hi there, I'm JIHEE 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c6bcd0&height=250&section=header&text=Ji%20Hee's%20Github🔥&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=c6bcd0&height=250&section=header&text=JI%20Hee's%20Github🔥&fontSize=60&animation=fadeIn" />
 </p>
 
 <div align="center">
