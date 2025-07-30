@@ -6,7 +6,7 @@
 
 <div align="center">
 
-#### ✨ *Welcome to my GitHub!* ✨  
+### ✨ *Welcome to my GitHub!* ✨  
 I'm Jihee — a passionate developer who loves exploring new technologies and building cool things.  
 
 <hr/>
