@@ -1,15 +1,15 @@
-## Hi there, I'm JIHEE 👋
+## Hi there, I'm JIHEE!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c6bcd0&height=200&section=header&text=Ji%20Hee's%20Github🔥&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=c6bcd0&height=200&section=header&text=JI%20HEE's%20Github👋&fontSize=50&animation=fadeIn" />
 </p>
 
 <div align="center">
 
-✨ **Welcome to my GitHub!** ✨  
+#### ✨ *Welcome to my GitHub!* ✨  
 I'm Jihee — a passionate developer who loves exploring new technologies and building cool things.  
 
----
+<hr/>
 
 ### 💻 Tech Stack
 
