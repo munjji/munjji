@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c6bcd0&height=200&section=header&text=✨JI%20HEE's%20Github✨&fontSize=50&animation=fadeIn" />
-
 ## 👋 About Me
 - UMC 5~8기 Server & Web | `2023.09 ~ 2025.08`
 - GDGoC 2기 Web/App General Member | `2024.12 ~ 2025.07`
