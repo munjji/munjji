@@ -1,8 +1,3 @@
-## 👋 About Me
-- UMC 5~8기 Server & Web | `2023.09 ~ 2025.08`
-- GDGoC 2기 Web/App General Member | `2024.12 ~ 2025.07`
-- 구름톤 유니브 3기 FE | `2024.08 ~ 2024.12`
-
 ## 🛠 Tech Stack
 <table>
   <tr>
@@ -14,7 +9,7 @@
     <td>Spring Boot, React</td>
   </tr>
   <tr>
-    <td><strong>Database</strong></td>
+    <td><strong>DB</strong></td>
     <td>MySQL, Redis</td>
   </tr>
   <tr>
